@@ -1,4 +1,4 @@
-# This is example to create a initial app with Next using 'npx create-next-app [name-project] --example [URL your project example]'
+## This is example to create a initial app with Next using 'npx create-next-app [name-project] --example [URL your project example]'
 ## Getting Started
 
 First, run the development server:
